@@ -31,5 +31,5 @@ print(predictions[0])
 
 print(np.argmax(predictions[0]))
 
-print(y_train[0])
+print(np.argmax(y_train[0]))
 
